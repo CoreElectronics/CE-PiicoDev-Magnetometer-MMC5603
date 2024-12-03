@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "PiicoDev-Magnetic-Sensor-QMC6310-rescue")(type "Legacy")(uri "${KIPRJMOD}/PiicoDev-Magnetic-Sensor-QMC6310-rescue.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "Magnetometer_MMC5603_Sym")(type "KiCad")(uri "${KIPRJMOD}/Magnetometer_MMC5603_Sym.kicad_sym")(options "")(descr ""))
 )

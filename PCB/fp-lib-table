@@ -1,2 +1,4 @@
 (fp_lib_table
+  (version 7)
+  (lib (name "Magnetometer_MMC5603_Foot")(type "KiCad")(uri "${KIPRJMOD}/Magnetometer_MMC5603_Foot.pretty")(options "")(descr ""))
 )
