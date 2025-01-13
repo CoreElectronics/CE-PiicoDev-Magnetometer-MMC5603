@@ -1,6 +1,6 @@
 # PiicoDev® Magnetometer MMC5603
 
-<!-- ![](https://core-electronics.com.au/media/catalog/product/p/i/piicodev-magnetometer-qmc6310.jpg) -->
+![](https://core-electronics.com.au/media/catalog/product/c/e/ce10107-piicodev-magnetometer-mmc5603-hero.jpg)
 
 This is the repo for the Core Electronics [PiicoDev Magnetometer MMC5603](https://core-electronics.com.au/catalog/product/view/sku/CE10107).
 
